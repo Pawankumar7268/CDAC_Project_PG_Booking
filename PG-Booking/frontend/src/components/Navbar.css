@@ -1,0 +1,55 @@
+.nav-item{
+    text-decoration: solid;
+    color: chartreuse;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    padding-top: 7px;
+   
+  }
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    background-color: black;
+  }
+  .dropdown:hover .dropdown-menu {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    /* background-color:rgb(0,0, 0,0.5);
+     */
+     background: transparent;
+     border: none;
+  }
+  .dropbtn{
+    color: black;
+    text-decoration: none;
+    margin-left: 8px;
+
+  }
+  .dropbtn:hover{
+    color: blueviolet;
+    cursor: pointer;
+  }
+  
+  .list{
+    color: black;
+    display: block;
+    text-decoration: none;
+   background-color: rgba(1, 10, 20, 0.5);
+  }
+  .list:hover{
+    color: yellow;
+    
+  }
+
+.nav-item>.nav-link>Link:hover{
+  color: blueviolet;
+}
+#one:hover{
+color: blueviolet;
+}

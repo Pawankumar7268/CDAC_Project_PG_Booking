@@ -1,0 +1,32 @@
+
+.au-content {
+    padding: 10px;
+    text-align: center;
+    height: 170px;
+    margin-bottom: 50px;
+
+}
+
+.section-titleV1 h2 {
+  
+    margin-bottom: 40px;
+    margin-top: 20px;
+    
+    background-color: rgb(211, 162, 188);
+    padding: 20px 10px;
+
+}
+
+
+
+/*logo*/
+.au-icon {
+    text-align: center;
+    
+}
+
+.about-us-content:hover {
+    box-shadow: 5px 30px 18px -8px rgba(0, 0, 0, 0.1);
+    transform: scale(1.05, 1.05);
+    background-color: bisque;
+}

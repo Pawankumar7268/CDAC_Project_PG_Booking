@@ -1,0 +1,62 @@
+.outermain{
+    margin: 100px 100px 0px 100px;
+    background-image: url('https://images.unsplash.com/1/work-stations-plus-espresso.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
+   
+    height: 100%;
+    height: 600px;
+    background-size: cover;
+   
+
+}
+.ctmain{
+    margin: 0px;
+    color: aqua;
+    font-size: 100px;
+
+}
+
+.inp{
+    display: inline-block;
+    margin-bottom: 20px;
+    width: 500px;
+    height: 50px;
+    padding: 5px 10px;
+    text-align: center;
+
+    color: chartreuse;
+    text-decoration: b;
+    font-size: 20px;
+    background:rgba(0, 0, 0, 0.5) ;
+    backface-visibility: hidden;
+}
+
+.innerclass{
+    text-align: center;
+}
+.hrline{
+    margin-bottom: 20px;
+/* width: 20px; */
+height: 2px;
+bottom: 35px;
+background-color: aqua;
+border: none;
+/* top: 20px; */
+position: relative;
+}
+.msg{
+    display: inline-block;
+    margin-bottom: 20px;
+    width: 500px;
+    height: 150px;
+    padding: 5px 10px;
+    text-align: center;
+
+    color: chartreuse;
+    font-size: 20px;
+    background:rgba(0, 0, 0, 0.5) ;
+    backface-visibility: hidden;
+}
+.btn1{
+margin-left:1000px ;
+background-color: antiquewhite;
+}
